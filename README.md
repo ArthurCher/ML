@@ -7,3 +7,4 @@
 * machine_learning_hw_5 - Пятая ДЗ по ML
 * machine_learning_hw_6 - Шестая ДЗ по ML
 * machine_learning_hw_7 - Седьмая ДЗ по ML
+* machine_learning_hw_8 - Восьмая ДЗ по ML
