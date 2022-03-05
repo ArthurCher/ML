@@ -11,3 +11,4 @@
 * machine_learning_hw_9 - Девятая ДЗ по ML
 * machine_learning_hw_10 - Десятая ДЗ по ML
 * machine_learning_hw_11 - Одинадцатая ДЗ по ML
+* zak_hw_2 - Вторая ДЗ по работе с заказчиком
