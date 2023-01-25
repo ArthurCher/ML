@@ -27,3 +27,4 @@
 * ts_6 - Шестая ДЗ по временным рядам
 * dl_4 - четвертая ДЗ по Deep Learning
 * dl_5 - пятая ДЗ по Deep Learning
+* dl_9 - девятая ДЗ по Deep Learning
